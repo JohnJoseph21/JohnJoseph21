@@ -156,7 +156,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnjoseph21&" alt="johnjoseph21" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shawnjose17&show_icons=true&locale=en" alt="shawnjose17" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=johnjoseph21&show_icons=true&locale=en" alt="johnjoseph21" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=johnjoseph21&" alt="johnjoseph21" /></p> <br><br>
 
 <picture>
