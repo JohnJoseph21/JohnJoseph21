@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?johnjoseph21=johnjoseph21" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?johnjoseph21.johnjoseph21" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John+Joseph!;" />
@@ -154,15 +154,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p> <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawnjose17&" alt="shawnjose17" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnjoseph21&" alt="johnjoseph21" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shawnjose17&show_icons=true&locale=en" alt="shawnjose17" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shawnjose17&" alt="shawnjose17" /></p> <br><br>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=johnjoseph21&" alt="johnjoseph21" /></p> <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShawnJose17/ShawnJose17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShawnJose17/ShawnJose17/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ShawnJose17/ShawnJose17/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnJoseph21/JohnJoseph21/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnJoseph21/JohnJoseph21/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/JohnJoseph21/JohnJoseph21/output/pacman-contribution-graph.svg">
 </picture>
 
 <h1 align="center">
