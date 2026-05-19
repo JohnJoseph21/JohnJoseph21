@@ -30,7 +30,7 @@
       -> Performance optimization and best practices**
 
 - 👨‍💻 All of my projects are available at:<br>
-      **GitHub**: github.com/ShawnJose17 (portfolio website currently under development)
+      **GitHub**: github.com/JohnJoseph21 (portfolio website currently under development)
 
 - 📝 Planning to publish on Medium, Dev.to, and my personal website (coming soon)
 
@@ -39,24 +39,20 @@
       -> Writing clean HTML, CSS, and JavaScript<br>
       -> Version control, GitHub practices, and project organization**
 
-- 📫 To reach me:<br>
-      <a href="mailto: shawnjose15@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
-
 - ⚡ Fun fact: **I break things just to understand how they work.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/shawn-jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shawn-jose" height="30" width="40" /></a>
+<a href="https://codepen.io/Johnathan-Joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="johnjoseph21" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dev.to/shawnjose21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shawnjose21" height="30" width="40" /></a>
+<a href="https://dev.to/johnjoseph21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="johnjoseph21" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/32225171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32225171" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/32225171/john-joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="johnjoseph21" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codesandbox.com/shawnjose21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shawnjose21" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/JohnJoseph21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="johnjoseph21" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@shawnjose21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shawnjose21" height="30" width="40" /></a>
+<a href="https://medium.com/@johnjoseph21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="johnjoseph21" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/shawnjose21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shawnjose21" height="30" width="40" /></a>
 </p> <br>
 
 <h3 align="center">Languages and Tools:</h3>
