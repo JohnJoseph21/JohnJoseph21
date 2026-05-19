@@ -39,6 +39,9 @@
       -> Writing clean HTML, CSS, and JavaScript<br>
       -> Version control, GitHub practices, and project organization**
 
+- 📫 To reach me:<br>
+      <a href="mailto: unknownjj15423@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+
 - ⚡ Fun fact: **I break things just to understand how they work.**
 
 <h3 align="center">Connect with me:</h3>
