@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John+Joseph!;" />
 </h1>
-<h3 align="center">Self-taught developer & web enthusiast from India</h3>
+<h3 align="center">Self-taught Developer & Web Enthusiast</h3>
 
 - 🔭 I’m currently working on:<br>
       -> **My personal portfolio website<br>
