@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?johnjoseph21.johnjoseph21" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=johnjoseph&logo=github" alt="visitor badge"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John+Joseph!;" />
@@ -153,10 +153,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p> <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnjoseph21&" alt="johnjoseph21" /></p>
+<p><img align="left" src="https://github-stats-extended.vercel.app/api?username=johnjoseph21" alt="johnjoseph21" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=johnjoseph21&show_icons=true&locale=en" alt="johnjoseph21" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=johnjoseph21&" alt="johnjoseph21" /></p> <br><br>
+<p>&nbsp;<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=johnjoseph21" alt="johnjoseph21" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=johnjoseph21" alt="GitHub Streak" /></a></p> <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnJoseph21/JohnJoseph21/output/pacman-contribution-graph-dark.svg">
